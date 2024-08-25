@@ -1,5 +1,5 @@
-# Dextools-Trending
-Dextools Trending Bot with Built-In Browser And TorProxy
+# Dextools / Dexscreener / Birdeye Trending
+Dextools / Dexscreener / Birdeye Trending Bot with Built-In Browser And TorProxy
 
 ![DextoolsTrendingGif](https://raw.githubusercontent.com/benzoicacidchloride/Dextools-Trending/main/DextoolsTrending.gif)
 
@@ -11,7 +11,7 @@ As a result, you don't need any paid proxy services.
 
 ## Usage
 - Run DextoolsTrending
-- Enter the Dextools token page link.
+- Enter the Dextools / Dexscreener / Birdeye token page link.
 - Click the "Start Tor Proxy and Check Cloudflare" button. (On the first use, the torproxy and privoxy software will be extracted to the working directory.)
 - After the page loads, if the Cloudflare page appears, wait for the browser verification to finish.
 - Click the checkbox "Start Trending Loop (Press If There Is No Cloudflare Detection)."
@@ -23,4 +23,6 @@ That's all.
 - Search for your token
 - Click Contract Address
 - Click Favourite Button
+- Add Reaction
+- Add Alert
 - Request New Identity
